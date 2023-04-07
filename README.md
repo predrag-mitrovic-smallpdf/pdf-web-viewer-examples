@@ -16,7 +16,7 @@ Repository which contains basic usage examples of NPM package [PDF Web Viewer](h
 
 ## List of Examples
 
-* Open and save documents - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/tree/main/pdf-web-viewer-open-and-save-documents)
+* Open and save documents - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/tree/main/open-and-save-documents)
 
 ## Running Examples locally
 
