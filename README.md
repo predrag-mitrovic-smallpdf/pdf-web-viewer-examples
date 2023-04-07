@@ -1,6 +1,8 @@
-# PDF Web Viewer - Interactive Examples
+# PDF Web Viewer - CodeSandbox Examples
 
-Repository which contains basic usage examples of NPM package [PDF Web Viewer](https://www.npmjs.com/package/@pdf-tools/four-heights-pdf-web-viewer).
+Explore and experiment with basic usage examples of NPM package [@pdf-tools/four-heights-pdf-web-viewer](https://www.npmjs.com/package/@pdf-tools/four-heights-pdf-web-viewer).
+
+## Description
 
 [PDF Web Viewer](https://www.pdf-tools.com/products/viewing-printing/pdf-web-viewer/)  by Pdftools, Switzerland, is a JavaScript component for viewing and annotating PDFs.
 
