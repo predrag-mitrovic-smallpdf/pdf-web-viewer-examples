@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "webpack serve --port 4567",
+    "dev": "webpack serve --port 4567 --allowed-hosts all",
     "build": "webpack"
   },
   "dependencies": {
