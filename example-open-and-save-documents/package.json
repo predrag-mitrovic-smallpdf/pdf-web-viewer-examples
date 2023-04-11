@@ -1,5 +1,5 @@
 {
-    "name": "pdf-web-viewer-open-and-save-documents",
+    "name": "pdf-web-viewer-example-open-and-save-documents",
     "version": "1.0.0",
     "main": "index.js",
     "license": "MIT",
