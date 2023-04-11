@@ -24,7 +24,6 @@ Explore and experiment with basic usage examples of NPM package [@pdf-tools/four
 ## Running Examples locally
 
 You can also run any example on your localhost.
-±
 1. `git clone git@github.com:predrag-mitrovic-smallpdf/pdf-web-viewer-examples.git`
 1. `cd pdf-web-viewer-examples/example-open-and-save-documents`
 1. `yarn install`
