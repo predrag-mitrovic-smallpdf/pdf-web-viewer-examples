@@ -18,13 +18,13 @@ Explore and experiment with basic usage examples of NPM package [@pdf-tools/four
 
 ## List of Examples
 
-* Open and save documents - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/test/4.1.0/example-open-and-save-documents)
-* Signature pad - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/test/4.1.0/example-signature-pad)
+* Open and save documents - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/tree/4.1.0/example-open-and-save-documents)
+* Signature pad - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/tree/4.1.0/example-signature-pad)
 
 ## Running Examples locally
 
 You can also run any example on your localhost.
-
+±
 1. `git clone git@github.com:predrag-mitrovic-smallpdf/pdf-web-viewer-examples.git`
 1. `cd pdf-web-viewer-examples/open-and-save-documents`
 1. `yarn install`
