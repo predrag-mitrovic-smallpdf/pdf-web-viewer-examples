@@ -18,8 +18,8 @@ Explore and experiment with basic usage examples of NPM package [@pdf-tools/four
 
 ## List of Examples
 
-* Open and save documents - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/tree/4.1.0/example-open-and-save-documents)
-* Signature pad - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/tree/4.1.0/example-signature-pad)
+* Open and save documents - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/tree/6.0.0/example-open-and-save-documents)
+* Signature pad - [open in CodeSandbox](https://codesandbox.io/p/sandbox/github/predrag-mitrovic-smallpdf/pdf-web-viewer-examples/tree/6.0.0/example-signature-pad)
 
 ## Running Examples locally
 
