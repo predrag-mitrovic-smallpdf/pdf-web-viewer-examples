@@ -28,3 +28,5 @@ You can also run any example on your localhost.
 1. `cd pdf-web-viewer-examples/example-open-and-save-documents`
 1. `yarn install`
 1. `yarn dev`
+
+Test
