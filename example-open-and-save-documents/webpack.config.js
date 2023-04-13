@@ -35,7 +35,8 @@ module.exports = {
         res.json({ status: 'ok' })
       })
       return middlewares
-    }
+    },
+    disableHostCheck: true,
   },
   plugins: [
     new HtmlWebpackPlugin({
