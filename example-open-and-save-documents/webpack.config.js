@@ -36,7 +36,7 @@ module.exports = {
       })
       return middlewares
     },
-    disableHostCheck: true,
+    allowedHosts: 'all',
   },
   plugins: [
     new HtmlWebpackPlugin({
@@ -54,11 +54,6 @@ module.exports = {
           from: '**/*',
           to: 'pdfwebviewer',
           context: webViewerAssetsDir
-        },
-        {
-          from: '**/*',
-          to: './',
-          context: 'public'
         }
       ]
     })
